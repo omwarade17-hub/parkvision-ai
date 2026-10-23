@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/*.mp4
+data/*.db
+outputs/*
+!outputs/.gitkeep
+models/*.joblib
+*.pt
+.pytest_cache/
